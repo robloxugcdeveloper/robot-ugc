@@ -19,7 +19,7 @@
 + ## Unzip the file and place the folder somewhere easy to access. (Password - robot)
 + ## Open RoBot.exe
 + ## Enjoy!
-[<img src="download.png">](https://mega.nz/file/Q31XFRCB#-zkk2IuuQ9ol4XUKwmYqZjD-5Y7uBjNrjpJBwP4hBEY)
+[<img src="download.png">](https://mega.nz/file/6ZEUDATA#TGnxEbejTYbvWdFc88B74tUV5HuJCjwuukteAduLgA4)
 
 ## HOW TO CREATE A THEME
 + ### Copy paste and rename baseTheme.
